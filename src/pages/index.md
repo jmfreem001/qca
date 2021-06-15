@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: QUALITY COMPLIANCE
-image: /img/honey-comb.jpg
+image: /img/raphael-koh-DdW2pDWicH8-unsplash.jpg
 heading: Quality Compliance
 subheading: Quality \ Compliance \ Solutions
 mainpitch:
@@ -13,16 +13,16 @@ description: >-
 
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/shaun-darwood-TC6u_HnDDqs-unsplash.jpg
       text: >
         Aerospace.
-    - image: /img/coffee-gear.png
+    - image: /img/thisisengineering-raeng-lx8CooX66ms-unsplash.jpg
       text: >
         Mechanical.
-    - image: /img/tutorials.png
+    - image: /img/fly-d-mT7lXZPjk7U-unsplash.jpg
       text: >
-        Fracturenomics.
-    - image: /img/meeting-space.png
+        Infromation Security.
+    - image: /img/dylan-gillis-KdeqA3aTnBY-unsplash.jpg
       text: >
         Management Systems.
   heading: What we offer
