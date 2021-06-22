@@ -10,6 +10,6 @@ We strive to offer all available services to our customers.
 
 - 3rd party Audits
 - Second Party Audits
-- Training
+- Mentoring
 
 ###

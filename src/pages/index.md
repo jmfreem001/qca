@@ -7,7 +7,7 @@ subheading: Quality \ Compliance \ Solutions
 mainpitch:
   title: Why QCA
   description: >
-    QCA is the the best option for Quality Compliance with 900 years of combined Quality Experience.
+    QCA is the the best option for Quality Compliance with more than 50 years of combined Quality Experience.
 description: >-
   We have a wide range of expertise.
 
@@ -21,10 +21,14 @@ intro:
         Mechanical.
     - image: /img/fly-d-mT7lXZPjk7U-unsplash.jpg
       text: >
-        Infromation Security.
+        Information Security.
     - image: /img/dylan-gillis-KdeqA3aTnBY-unsplash.jpg
       text: >
-        Management Systems.
+        Management Systems Development.
+    - image: /img/scott-graham-5fNmWej4tAA-unsplash.jpg
+      text: >
+        Mentoring.
+
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
